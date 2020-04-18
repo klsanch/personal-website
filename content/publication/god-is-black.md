@@ -1,6 +1,6 @@
 +++
 title = "God is a White Man"
-date = 2020-04-20T00:00:00
+date = 2020-04-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Steven Roberts", "Kiara L Sanchez"]
@@ -50,7 +50,7 @@ url_source = ""
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
-math = true
+math = false
 
 # Does the content use source code highlighting?
 highlight = true
@@ -58,7 +58,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = ""
 caption = "My caption :smile:"
 
 +++
