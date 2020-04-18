@@ -69,4 +69,4 @@ user_groups: []
 #- Visitors
 ---
 
-I am a social psychology PhD student at Stanford University working primarily with [Dr. Greg Walton](gregorywalton-stanford.weebly.com). I am a member of the Dweck-Walton lab (PIs: Carol Dweck & Greg Walton) and Race & Social Inequality lab (PIs: Jennifer Eberhardt & Claude Steele). Before coming to Stanford I received a BA in Psychology and Sociology from Rice University, where I worked with [Dr. Mikki Hebl](http://www.mikkihebl.com/).
+I am a social psychology PhD student at Stanford University working primarily with [Dr. Greg Walton](http://www.gregorywalton-stanford.weebly.com). I am a member of the Dweck-Walton lab (PIs: Carol Dweck & Greg Walton) and Race & Social Inequality lab (PIs: Jennifer Eberhardt & Claude Steele). Before coming to Stanford I received a BA in Psychology and Sociology from Rice University, where I worked with [Dr. Mikki Hebl](http://www.mikkihebl.com/).
