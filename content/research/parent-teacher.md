@@ -3,10 +3,10 @@
 date = 2020-05-21T00:00:00
 
 # Project title.
-title = "Conversations about Race-Related Experiences"
+title = "Classroom Race Talk & Parent-teacher Trust"
 
 # Project summary to display on homepage.
-summary = "How do cross-race friends talk about their race-related experiences? What are the consequences?"
+summary = "Do White and Black parents trust teachers to talk about race? Does this trust influence teachers' decisions to talk about race?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "cat1_bricks1.png"
@@ -28,10 +28,6 @@ caption = ""
 
 +++
 
-The commitment and connection that people have to their friends presents an opportunity for meaningful conversations about important experiences, including race-related experiences. Yet friends from different racial groups may each experience identity threat in such conversations that prevents them from going well or from happening at all. 
-
-One goal of this line of work is to understand how often cross-race friends talk about race-related experiences, their expectations about these conversations, and how they experience these conversations. I am particularly interested in the consequences of talking about race-related experiences for minority group members' ability to feel authentic and understood in the friendship, White friends' interest in and continuous learning about race, and both friends' closeness. 
-
-In understanding these processes, a second goal is to help cross-race friends have better conversations about race-related experiences that lead to closer, more authentic intergroup friendships. Using a wise intervention approach, I test theory-driven strategies aimed at mitigating threat experienced by both majority and minority-group friends. 
+In collaboration with my friend and colleague, [Camilla Griffiths](https://ccsre.stanford.edu/people/camilla-griffiths), I study how parents and teachers think about conversations about race in the classroom (mostly middle school and high school). Classrooms discussions on the role of race in society and everyday life are beneficial for both students of color and White students. Yet we know little about how parent-teacher relationships influence this practice. Using experimental paradigms, we test whether teacher's race and interest in race talk influence parents' trust in their child's teacher. Moreover, we test whether knowledge about parents' support of race talk influences the extent to which teachers decide to discuss race in their classroom. 
 
 
