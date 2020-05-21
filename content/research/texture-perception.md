@@ -32,6 +32,6 @@ The commitment and connection that people have to their friends presents an oppo
 
 One goal of this line of work is to understand how often cross-race friends talk about race-related experiences, their expectations about these conversations, and how they experience these conversations. I am particularly interested in the consequences of talking about race-related experiences for minority group members' ability to feel authentic and understood in the friendship, White friends' interest in and continuous learning about race, and both friends' closeness. 
 
-In understanding these processes, a second goal is to help cross-race friends have better conversations abuot race-related experiences that lead to closer, more authentic friendships. Using a wise intervention approach, I test theory-driven strategies aimed at mitigating threat experienced by both majority and minority-group friends. 
+In understanding these processes, a second goal is to help cross-race friends have better conversations about race-related experiences that lead to closer, more authentic intergroup friendships. Using a wise intervention approach, I test theory-driven strategies aimed at mitigating threat experienced by both majority and minority-group friends. 
 
 
