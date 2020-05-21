@@ -19,5 +19,8 @@ I have been a Teaching Assistant for the following classes at Stanford:
  - Intergroup Communication (Dr. Hazel Markus & Dereca Blackmon)
 
 
-I have also been a Head Instructor for the following classes at Stanford:
+I have been a Head Instructor for the following classes at Stanford:
  - Introduction to Social Psychology 
+
+ I have guest lectured in the following classes at Stanford: 
+ - Cultural Psychology (Dr. Hazel Markus)
