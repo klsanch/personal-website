@@ -28,6 +28,6 @@ caption = ""
 
 +++
 
-In collaboration with my friend and colleague, [Camilla Griffiths](https://ccsre.stanford.edu/people/camilla-griffiths), I study how parents and teachers think about conversations about race in the classroom (mostly middle school and high school). Classrooms discussions on the role of race in society and everyday life are beneficial for both students of color and White students. Yet we know little about how parent-teacher relationships influence this practice. Using experimental paradigms, we test whether teacher's race and interest in race talk influence parents' trust in their child's teacher. Moreover, we test whether knowledge about parents' support of race talk influences the extent to which teachers decide to discuss race in their classroom. 
+In collaboration with my friend and colleague, [Camilla Griffiths](https://ccsre.stanford.edu/people/camilla-griffiths), I study how parents and teachers think about conversations about race in the classroom (mostly middle school and high school). Classrooms discussions on the role of race in society and everyday life are beneficial for both students of color and White students. Yet we know little about how parent-teacher relationships influence this practice. Using experimental paradigms, we test whether teacher's race and interest in race talk influence Black and White parents' trust in their child's teacher. Moreover, we test whether knowledge about parents' support of race talk influences the extent to which teachers decide to discuss race in their classroom. 
 
 
