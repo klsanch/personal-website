@@ -1,9 +1,9 @@
 +++
-title = "God is a White Man"
-date = 2020-04-01T00:00:00
+title = "God as a White man: A psychological barrier to conceptualizing Black people and women as leadership worthy."
+date = 2020-01-30T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Steven Roberts", "Kiara L Sanchez"]
+authors = ["Steven O. Roberts", "Kara Weisman", "Jonathan D. Lane", "Amber Williams", "Nicholas P. Camp", "Michelle Wang", "Mishaela Robison", "Kiara L Sanchez", "Camilla Griffiths"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Steven Roberts", "Kiara L Sanchez"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Psychology Today*"
-publication_short = "In *PT*"
+publication = "In *Journal of Personality and Social Psychology*"
+publication_short = "In *JPSP*"
 
 # Abstract and optional shortened version.
-abstract = "Many everyday tasks require prioritizing some visual features over competing ones, both during the selection from the rich sensory input and while maintaining information in visual short-term memory (VSTM). Here, we show that observers can change priorities in VSTM when, initially, they attended to a different feature. Observers reported from memory the orientation of one of two spatially interspersed groups of black and white gratings. Using colored pre-cues (presented before stimulus onset) and retro-cues (presented after stimulus offset) predicting the to-be-reported group, we manipulated observers’ feature priorities independently during stimulus encoding and maintenance, respectively. Valid pre-cues reliably increased observers’ performance (reduced guessing, increased report precision) as compared to neutral ones; invalid pre-cues had the opposite effect. Valid retro-cues also consistently improved performance (by reducing random guesses), even if the unexpected group suddenly became relevant (invalid-valid condition). Thus, feature-based attention can reshape priorities in VSTM protecting information that would otherwise be forgotten."
+abstract = "In the United States, God is commonly conceptualized as the omnipotent and omniscient entity that created the universe, and as a White man. We questioned whether the extent to which God is conceptualized as a White man predicts the extent to which White men are perceived as particularly fit for leadership. We found support for this across 7 studies. In Study 1, we created 2 measures to examine the extent to which U.S. Christians conceptualized God as a White man, and in Study 2 we found that, controlling for multiple covariates (e.g., racist and sexist attitudes, religiosity, political attitudes), responses on these measures predicted perceiving White male job candidates as particularly fit for leadership, among both Black and White, male and female, Christians. In Study 3, we found that U.S. Christian children, both White and racial minority, conceptualized God as more White than Black (and more male than female), which predicted perceiving White people as particularly boss-like. We next found evidence to suggest that this phenomenon is rooted in broader intuitions that extend beyond Christianity. That is, in a novel context with novel groups and a novel god, U.S. Christian adults (Studies 4 and 6), atheist adults (Study 5), and agnostic preschoolers (Study 7), used a god’s identity to infer which groups were best fit for leadership. Collectively, our data reveal a clear and consistent pattern: Attributing a social identity to God predicts perceiving individuals who share that identity as more fit for leadership."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -35,7 +35,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "http://web.stanford.edu/~akshayj/kalogeropoloujagadeesh.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -63,4 +63,6 @@ caption = "My caption :smile:"
 
 +++
 
-**Featured** in [Psychonomic Society](https://featuredcontent.psychonomic.org/fortifying-memory-after-encoding-internal-and-external-attention-and-visual-short-term-memory/): Fortifying memory after encoding: Internal and external attention and visual short-term memory
+**Featured** in:
+[Psychology Today](https://www.psychologytoday.com/us/blog/platonic-love/202002/the-trouble-seeing-god-white-man): The Trouble with Seeing God as a White Man
+[Stanford Daily News](https://news.stanford.edu/2020/01/31/consequences-perceiving-god-white-man/): Who people believe rules in heaven influences their beliefs about who rules on Earth, Stanford scholars find
