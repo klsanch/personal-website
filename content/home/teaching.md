@@ -12,15 +12,15 @@ subtitle = ""
 +++
 
 I have been a Teaching Assistant for the following classes at Stanford:
- - Psychology of Scarcity (Dr. Claude Steele)
- - Introduction to Psychology (Dr. James Gross & Dr. Jennifer Crosby)
- - Self and Society: Introduction to Social Psychology (Dr. Robb Willer & Dr. Alia Crum)
- - Introduction to Comparative Studies in Race & Ethnicity (Dr. Hazel Markus & Dr. Paula Moya)
- - Intergroup Communication (Dr. Hazel Markus & Dereca Blackmon)
+ - Psychology of Scarcity 
+ - Introduction to Psychology 
+ - Self and Society: Introduction to Social Psychology (head TA) 
+ - Introduction to Comparative Studies in Race & Ethnicity
+ - Intergroup Communication 
 
 
 I have been a Head Instructor for the following classes at Stanford:
  - Introduction to Social Psychology 
 
  I have guest lectured in the following classes at Stanford: 
- - Cultural Psychology (Dr. Hazel Markus)
+ - Cultural Psychology
