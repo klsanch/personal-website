@@ -1,6 +1,6 @@
 +++
 title = "Children's Intergroup Relations and Attitudes"
-date = 2020-01-30T00:00:00
+date = 2016-06-26T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rebecca S. Bigler", "John M. Rohrbach", "Kiara L. Sanchez"]
