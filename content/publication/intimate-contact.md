@@ -1,6 +1,6 @@
 +++
 title = "Intimate Intergroup Contact Across the Lifespan"
-date = 2020-04-30T00:00:00
+date = 2020-11-30T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Marco Marinucci", "Rachel Maunder", "Kiara Sanchez", "Michael Thai", "Shelley McKeown", "Rhiannon Turner", "Clifford Stevenson"]
