@@ -64,5 +64,5 @@ caption = "My caption :smile:"
 +++
 
 **Featured** in:
-[Psychology Today](https://www.psychologytoday.com/us/blog/platonic-love/202002/the-trouble-seeing-god-white-man): The Trouble with Seeing God as a White Man
-[Stanford Daily News](https://news.stanford.edu/2020/01/31/consequences-perceiving-god-white-man/): Who people believe rules in heaven influences their beliefs about who rules on Earth, Stanford scholars find
+- [Psychology Today](https://www.psychologytoday.com/us/blog/platonic-love/202002/the-trouble-seeing-god-white-man): The Trouble with Seeing God as a White Man
+- [Stanford Daily News](https://news.stanford.edu/2020/01/31/consequences-perceiving-god-white-man/): Who people believe rules in heaven influences their beliefs about who rules on Earth, Stanford scholars find
