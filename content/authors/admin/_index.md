@@ -22,9 +22,11 @@ bio: social psychologist, interested close intergroup relationships and conversa
 
 interests:
 - Social Psychology
-- Intergroup Relationships
+- Intergroup Friendship
+- Race Talk
 - Interventions
 - Identity Safety
+
 
 education:
   courses:
