@@ -1,6 +1,6 @@
 +++
 title = "A threatening opportunity: The prospect of conversations about race-related experiences between Black and White friends."
-date = 2021T00:00:00
+date = 2021-09-16T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kiara L. Sanchez", "David A. Kalkstein", "Gregory M. Walton"]
